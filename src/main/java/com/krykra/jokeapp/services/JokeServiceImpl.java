@@ -1,4 +1,4 @@
-package com.krykra.jokeapp.service;
+package com.krykra.jokeapp.services;
 
 import org.springframework.stereotype.Service;
 
